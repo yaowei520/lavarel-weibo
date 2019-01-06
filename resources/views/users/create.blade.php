@@ -1,6 +1,6 @@
 @extends('layout.default')
-@section('title', '关于')
+@section('title', '注册')
 
 @section('content')
-    <h1>关于页</h1>
+    <h1>注册</h1>
 @stop
